@@ -26,3 +26,5 @@ palindroma(palavra);
 palavra = 'cachorro';
 console.log(palavra)
 palindroma(palavra);
+
+// eu fiz isso antes saber que existe o metodo reverse()
